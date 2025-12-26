@@ -68,6 +68,6 @@ Many people struggle to control spending and exceed budgets without realizing wh
 ---
 
 ## 📫 Contact
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/thae-thae-aung)  
-- GitHub: [Your GitHub](https://github.com/thaethaeaung1)
+- LinkedIn: [My LinkedIn](https://linkedin.com/in/thae-thae-aung)  
+- GitHub: [My GitHub](https://github.com/thaethaeaung1)
 
