@@ -33,10 +33,16 @@ Many people struggle to control spending and exceed budgets without realizing wh
 
 ## 🖼 Screenshots
 **Dashboard Overview**  
-![Dashboard Overview](dashboards/dashboard_overview.png)  
+![Dashboard Overview](dashboards/Main_Menu.png) 
+
+**Form to Collect Data**
+![Form](dashboards/Form.png).
 
 **Spending Comparison Bar Chart**  
-![Spending Bar Chart](dashboards/spending_bar_chart.png)  
+![Spending Bar Chart](dashboards/Comparison_Bar_Chart.png)
+
+**Report of the top 3 categories in Expenses**
+![Report on top 3 Categories](dashboards/Report.png).
 
 *(Replace these images with your actual screenshots)*
 
@@ -47,14 +53,16 @@ Many people struggle to control spending and exceed budgets without realizing wh
 ---
 
 ## ⚡ How to Run
-1. Create a MySQL database using `sql/create_tables.sql`.  
-2. Populate with sample data (`sql/insert_data.sql`).  
-3. Run analysis queries (`sql/analysis_queries.sql`).  
-4. Connect Retool dashboards to your database.
+1. Create an instance to create a cloud database on Google Cloud.
+2. Create a MySQL database using `sql/Create_Tables.sql`.  
+3. Creat_Tables.sql contains all the data of Finance database.
+4. Run analysis queries (`sql/Analysis_Queries.sql`).  
+5. Connect Retool dashboards to your database using information from Overview section of Google Cloud.
 
 ---
 
 ## 🔮 Future Improvements
+- Improve the database system to retrive required analyzed data from it more efficiently.
 - Add **predictive analytics** to forecast monthly expenses.  
 - Implement **real-time overspending alerts**.  
 - Expand dashboards with **trend analysis** and **savings suggestions**.
@@ -62,6 +70,6 @@ Many people struggle to control spending and exceed budgets without realizing wh
 ---
 
 ## 📫 Contact
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/thae-thae-aung)  
+- GitHub: [Your GitHub](https://github.com/thaethaeaung1)
 
