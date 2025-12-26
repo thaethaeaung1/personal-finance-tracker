@@ -52,9 +52,9 @@ Many people struggle to control spending and exceed budgets without realizing wh
 
 ## ⚡ How to Run
 1. Create an instance to create a cloud database on Google Cloud.
-2. Create a MySQL database using (`sql/Create_Tables.sql`).
+2. Create a MySQL database using ![Database Schema & Data](`sql/Create_Tables.sql`).
 3. Creat_Tables.sql contains all the data of Finance database.
-4. Run analysis queries (`sql/Analysis_Queries.sql`).  
+4. Run analysis queries ![Analysis Qureries](`sql/Analysis_Queries.sql`).  
 5. Connect Retool dashboards to your database using information from Overview section of Google Cloud.
 
 ---
