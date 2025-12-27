@@ -38,8 +38,8 @@ Many people struggle to control spending and exceed budgets without realizing wh
 **Form to Collect Data**
 ![Form](dashboards/Form.png)
 
-**Spending Comparison Bar Chart**  
-![Spending Bar Chart](dashboards/Comparison_Bar_Chart.png)
+**Spending Comparison Column Chart**  
+![Spending Column Chart](dashboards/Comparison_Bar_Chart.png)
 
 **Report of the top 3 categories in Expenses**
 ![Report on top 3 Categories](dashboards/Report.png)
